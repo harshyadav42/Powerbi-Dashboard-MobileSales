@@ -14,7 +14,7 @@ The dashboard provides valuable insights into sales performance, customer rating
 
 ## 🖥️ Dashboard Preview
 
-![Mobile Sales Dashboard](images/mobile-sales-dashboard.png)
+![Mobile Sales Dashboard](Docs/mobile-sales-dashboard.png)
 
 *Note: Upload your dashboard screenshot into an `images` folder and name it `mobile-sales-dashboard.png`.*
 
