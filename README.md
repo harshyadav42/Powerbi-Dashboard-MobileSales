@@ -1,11 +1,5 @@
 # 📱 Mobile Sales Analysis Dashboard | Power BI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
-</p>
-
 ## 📌 Project Overview
 
 This project focuses on analyzing mobile sales data using **Microsoft Power BI** to create an interactive and visually appealing sales dashboard.
